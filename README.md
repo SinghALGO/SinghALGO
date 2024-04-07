@@ -1,27 +1,77 @@
+<!-- Header -->
+<h1 align="center">Hi there, I'm Gurpreet 👋</h1>
+<h3 align="center">Full Stack Developer | Cybersecurity Enthusiast</h3>
 
-<h1 align="center">Hi 👋, I'm Gurpreet</h1>
-<h3 align="center"> A Full-Stack Developer from BC, Canada</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!-- Animated Coding GIF -->
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400">
+</p>
 
-- 🔭 I’m currently working on **Nodejs**.
+<!-- Social Media & Contact Links -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/singhalgo/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:singhalgo418@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-- 🌱 I’m currently learning **Blockchain Development**.
+---
 
-- 👨‍💻 All of my projects are available at [https://bio.link/singhalgo](https://bio.link/singhalgo).
+<!-- About Me Section -->
+## About Me 🚀
 
-- 💬 Ask me about **why to choose development over DSA.**
+I'm a passionate and self-motivated Full Stack Developer based in BC, Canada. With a solid foundation in web development technologies. I love tackling challenging projects and continuously expanding my skillset.
 
-- 📫 How to reach me **singhalgo418@gmail.com**.
+---
 
-- ⚡ Fun fact **Ultron was created by Hank Pym.**
+<!-- Skills & Technologies Section -->
+## Skills & Technologies 💻
 
-<h3 align="left"> Connect with me : </h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/singhalgo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="singhALGO" height="30" width="40" /></a>
+### Frontend
+- **Languages:** HTML5, CSS3, JavaScript, TypeScript, Python, Java
+- **Frameworks/Libraries:** React.js, Bootstrap
+- **Tools:** Tailwind CSS, Material-UI
+
+### Backend
+- **Languages:** Node.js (Express.js)
+- **Databases:** MongoDB, MySQL
+- **Authentication:** Firebase Auth
+
+### Other Skills
+- **Version Control:** Git, GitHub
+- **Deployment:** Heroku, Vercel
+- **DevOps:** CI/CD Pipelines
+
+---
+
+<!-- GitHub Statistics Section -->
+## GitHub Statistics 📊
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SinghALGO&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="GitHub Stats" />
+</p>
+
+---
+
+<!-- Certifications Section -->
+## Certifications 🎓
+
+- Full Stack Web Development, Lighthouse Labs
+
+---
+
+<!-- Currently Learning Section -->
+## Currently Learning 📚
+
+I'm currently learning cybersecurity and front-end system design to build secure projects, and mastering advanced React.js concepts.
+
+---
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SinghALGO&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="singhALGO" /></p>
+
+
+<p align="center">⭐️ Star this repository if you find it helpful! ⭐️</p>
 
